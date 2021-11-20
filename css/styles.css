@@ -14,7 +14,7 @@ body
     border-radius: 10px;
 }
 
-img
+.blue img
 {
     display: block;
     border-radius: 10px;
@@ -67,4 +67,17 @@ h1
     width: 50px;
     background: linear-gradient(to right,#01a9ac,#01dbdf);
     border-radius: 10px;
+}
+.button img 
+{
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 40px;
+    width: 40px;
+}
+.links 
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
 }
